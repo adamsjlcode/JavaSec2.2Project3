@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AddressBook Project
 
 ## Overview
@@ -74,6 +73,3 @@
 >   You must handle all exceptions in processing. Simply adding a throws
 >   Exception clause to the methods inside the driver does not count as
 >   “handling the exceptions”.
-=======
-**Computer Science 1260 – Project 3**
->>>>>>> 8bf4b0edccd7840dceabada3beaf484847a72086
